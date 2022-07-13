@@ -72,3 +72,9 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+/Blackjack/Saved/*
+/Blackjack/DerivedDataCache/*
+/Blackjack/Build/*
+Blackjack/Script/*
+Blackjack/Intermediate/*
+Blackjack/Plugins/*
