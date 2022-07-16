@@ -730,3 +730,163 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.07.15-22.20.56:499][525]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
 [2022.07.15-22.20.56:499][525]LogSlate: Took 0.016288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2022.07.15-23.04.26:921][331]LogDerivedDataCache: C:/Users/Anooj Vadodkar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.599 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.15-23.58.06:777][171]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/MainContent/Blueprints/DataTables/DataTable_Dealer.DataTable_Dealer
+[2022.07.16-00.01.36:348][317]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.07.16-00.01.52:308][201]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.07.16-00.01.52:315][201]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.07.16-00.01.52:431][202]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2022.07.16-00.01.55:751][564]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> Struct_Dialog
+[2022.07.16-00.01.57:208][564]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.07.16-00.01.58:461][672]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/MainContent/Blueprints/Struct/Struct_Dialog.Struct_Dialog
+[2022.07.16-00.04.16:267][923]LogSlate: Window 'Pick Row Structure' being destroyed
+[2022.07.16-00.04.16:296][923]LogContentBrowser: Deferred new asset file creation: NewDataTable
+[2022.07.16-00.04.16:302][923]LogContentBrowser: Creating deferred item: NewDataTable
+[2022.07.16-00.04.16:375][924]LogContentBrowser: Renaming the item being created (Deferred Item: NewDataTable).
+[2022.07.16-00.04.20:423][386]LogContentBrowser: Attempting asset rename: NewDataTable -> DataTable_Dialog
+[2022.07.16-00.04.20:424][386]LogContentBrowser: End creating deferred item NewDataTable
+[2022.07.16-00.04.21:404][500]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/MainContent/Blueprints/DataTables/DataTable_Dialog.DataTable_Dialog
+[2022.07.16-00.04.26:926][988]LogDerivedDataCache: C:/Users/Anooj Vadodkar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.414 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-00.11.41:154][  7]LogUObjectHash: Compacting FUObjectHashTables data took 112.43ms
+[2022.07.16-00.11.41:500][  7]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainContent/Levels/Level_Blank' took 4.107
+[2022.07.16-00.11.41:825][  7]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainContent/Blueprints/Struct/Struct_Dialog] ([1] browsable assets)...
+[2022.07.16-00.11.41:838][  7]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainContent/Blueprints/Struct/Struct_Dialog]
+[2022.07.16-00.11.42:403][  7]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.290586 seconds
+[2022.07.16-00.11.42:913][  7]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainContent/Blueprints/Struct/Struct_Dialog_Auto1
+[2022.07.16-00.11.42:914][  7]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Struct_Dialog_Auto196B2877A4C07E18AF8BF1189DC97C6C2.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Autosaves/Game/MainContent/Blueprints/Struct/Struct_Dialog_Auto1.uasset'
+[2022.07.16-00.11.43:294][  7]LogFileHelpers: Auto-saving content packages took 1.757
+[2022.07.16-00.41.54:487][657]LogCSVImportFactory: Imported DataTable 'DataTable_Dialog' - 61 Problems
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 0:Row '2' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 1:Row '3' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 2:Row '4' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 3:Row '5' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 4:Row '6' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 5:Row '7' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 6:Row '8' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 7:Row '9' missing a name.
+[2022.07.16-00.41.54:488][657]LogCSVImportFactory: 8:Row '10' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 9:Row '11' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 10:Row '12' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 11:Row '13' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 12:Row '14' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 13:Row '15' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 14:Row '16' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 15:Row '17' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 16:Row '18' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 17:Row '19' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 18:Row '20' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 19:Row '21' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 20:Row '22' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 21:Row '23' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 22:Row '24' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 23:Row '25' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 24:Row '26' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 25:Row '27' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 26:Row '28' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 27:Row '29' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 28:Row '30' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 29:Row '31' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 30:Row '32' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 31:Row '33' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 32:Row '34' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 33:Row '35' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 34:Row '36' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 35:Row '37' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 36:Row '38' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 37:Row '39' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 38:Row '40' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 39:Row '41' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 40:Row '42' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 41:Row '43' missing a name.
+[2022.07.16-00.41.54:489][657]LogCSVImportFactory: 42:Row '44' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 43:Row '45' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 44:Row '46' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 45:Row '47' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 46:Row '48' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 47:Row '49' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 48:Row '50' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 49:Row '51' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 50:Row '52' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 51:Row '53' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 52:Row '54' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 53:Row '55' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 54:Row '56' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 55:Row '57' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 56:Row '58' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 57:Row '59' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 58:Row '60' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 59:Row '61' missing a name.
+[2022.07.16-00.41.54:600][657]LogCSVImportFactory: 60:Row '62' missing a name.
+[2022.07.16-00.42.00:838][657]LogSlate: Window 'Message' being destroyed
+[2022.07.16-00.42.00:846][657]Message dialog closed, result: Ok, title: Message, text: Row '2' missing a name.
+Row '3' missing a name.
+Row '4' missing a name.
+Row '5' missing a name.
+Row '6' missing a name.
+Row '7' missing a name.
+Row '8' missing a name.
+Row '9' missing a name.
+Row '10' missing a name.
+Row '11' missing a name.
+Row '12' missing a name.
+Row '13' missing a name.
+Row '14' missing a name.
+Row '15' missing a name.
+Row '16' missing a name.
+Row '17' missing a name.
+Row '18' missing a name.
+Row '19' missing a name.
+Row '20' missing a name.
+Row '21' missing a name.
+Row '22' missing a name.
+Row '23' missing a name.
+Row '24' missing a name.
+Row '25' missing a name.
+Row '26' missing a name.
+Row '27' missing a name.
+Row '28' missing a name.
+Row '29' missing a name.
+Row '30' missing a name.
+Row '31' missing a name.
+Row '32' missing a name.
+Row '33' missing a name.
+Row '34' missing a name.
+Row '35' missing a name.
+Row '36' missing a name.
+Row '37' missing a name.
+Row '38' missing a name.
+Row '39' missing a name.
+Row '40' missing a name.
+Row '41' missing a name.
+Row '42' missing a name.
+Row '43' missing a name.
+Row '44' missing a name.
+Row '45' missing a name.
+Row '46' missing a name.
+Row '47' missing a name.
+Row '48' missing a name.
+Row '49' missing a name.
+Row '50' missing a name.
+Row '51' missing a name.
+Row '52' missing a name.
+Row '53' missing a name.
+Row '54' missing a name.
+Row '55' missing a name.
+Row '56' missing a name.
+Row '57' missing a name.
+Row '58' missing a name.
+Row '59' missing a name.
+Row '60' missing a name.
+Row '61' missing a name.
+Row '62' missing a name.
+
+[2022.07.16-01.04.26:731][833]LogDerivedDataCache: C:/Users/Anooj Vadodkar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.393 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-02.04.26:832][558]LogDerivedDataCache: C:/Users/Anooj Vadodkar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.267 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-03.04.26:367][287]LogDerivedDataCache: C:/Users/Anooj Vadodkar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.093 and deleted 0 file(s) with total size 0 MiB.
+[2022.07.16-03.08.47:781][371]LogUObjectHash: Compacting FUObjectHashTables data took 652.03ms
+[2022.07.16-03.08.50:105][371]LogSavePackage: Moving output files for package: /Game/MainContent/Blueprints/Struct/Struct_Dialog
+[2022.07.16-03.08.50:105][371]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Struct_Dialog7C799D08438C570F63891F824BC9BEFB.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Blueprints/Struct/Struct_Dialog.uasset'
+[2022.07.16-03.08.50:584][371]LogSavePackage: Moving output files for package: /Game/MainContent/Blueprints/DataTables/DataTable_Dialog
+[2022.07.16-03.08.50:584][371]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/DataTable_Dialog6F0CE5DD4CBEE7DC8F98E1975249C9E5.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Blueprints/DataTables/DataTable_Dialog.uasset'
+[2022.07.16-03.08.51:498][371]AssetCheck: New page: Asset Save: multiple assets
+[2022.07.16-03.08.51:607][371]LogContentValidation: Display: Validating UserDefinedStruct /Game/MainContent/Blueprints/Struct/Struct_Dialog.Struct_Dialog
+[2022.07.16-03.08.51:766][371]LogContentValidation: Display: Validating DataTable /Game/MainContent/Blueprints/DataTables/DataTable_Dialog.DataTable_Dialog
