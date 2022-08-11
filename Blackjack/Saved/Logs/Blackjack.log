@@ -749,3 +749,189 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.08.11-06.38.56:896][387]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Dialog_WhenDealer4400FBDA457F5A22732E0EA4FA332BB9.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Blueprints/DataTables/DialogDataTables/Dialog_WhenDealer.uasset'
 [2022.08.11-06.38.56:913][387]AssetCheck: New page: Asset Save: Dialog_WhenDealer
 [2022.08.11-06.38.56:913][387]LogContentValidation: Display: Validating DataTable /Game/MainContent/Blueprints/DataTables/DialogDataTables/Dialog_WhenDealer.Dialog_WhenDealer
+[2022.08.11-06.40.00:806][940]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/MainContent/Widgets/W_MainHUD.W_MainHUD
+[2022.08.11-06.40.00:807][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-06.40.00:815][940]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-06.40.00:822][940]LogSlate: Warning: The command 'UMGEditor.OpenAnimDrawer' has the same default chord as 'EditorViewport.Next' [Ctrl+Shift+Space Bar]
+[2022.08.11-06.40.02:233][940]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.11-06.40.02:233][940]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.11-06.40.02:374][940]LogSlate: Took 0.006294 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.08.11-06.40.02:377][940]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find SlateColor 'Foreground'.'
+[2022.08.11-06.41.11:042][791]LogSlate: Took 0.000260 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.08.11-06.41.18:865][511]LogEditorTransaction: Undo Edit Typeface
+[2022.08.11-06.41.39:715][524]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/MainContent/Blueprints/Actor_Dealer_Test.Actor_Dealer_Test
+[2022.08.11-06.41.39:715][524]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-06.46.14:560][955]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MainContent/Blueprints/Actor_Dealer_Test.Actor_Dealer_Test_C
+[2022.08.11-06.46.14:561][955]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/MainContent/Blueprints/Actor_Dealer_Test.Actor_Dealer_Test_C
+[2022.08.11-06.46.14:583][955]LogActorFactory: Actor Factory spawned Blueprint /Game/MainContent/Blueprints/Actor_Dealer_Test.Actor_Dealer_Test as actor: Actor_Dealer_Test_C /Game/MainContent/Levels/Level_Blank.Level_Blank:PersistentLevel.Actor_Dealer_Test_C_0
+[2022.08.11-06.46.14:594][955]LogActorFactory: Actor Factory spawned Blueprint /Game/MainContent/Blueprints/Actor_Dealer_Test.Actor_Dealer_Test as actor: Actor_Dealer_Test_C /Game/MainContent/Levels/Level_Blank.Level_Blank:PersistentLevel.Actor_Dealer_Test_C_0
+[2022.08.11-06.47.12:446][139]BlueprintLog: New page: Compile W_MainHUD
+[2022.08.11-06.47.12:784][139]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.08.11-06.47.22:263][ 42]LogSavePackage: Moving output files for package: /Game/MainContent/Widgets/W_MainHUD
+[2022.08.11-06.47.22:264][ 42]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/W_MainHUD3A01CF4642C65A57DDEFB591EFF33867.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Widgets/W_MainHUD.uasset'
+[2022.08.11-06.47.22:293][ 42]AssetCheck: New page: Asset Save: W_MainHUD
+[2022.08.11-06.47.22:293][ 42]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainContent/Widgets/W_MainHUD.W_MainHUD
+[2022.08.11-06.47.22:911][111]BlueprintLog: New page: Compile W_MainHUD
+[2022.08.11-06.47.23:221][111]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2022.08.11-06.47.25:181][304]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.08.11-06.47.25:195][304]BlueprintLog: New page: Pre-Play auto-recompile
+[2022.08.11-06.47.25:209][304]LogPlayLevel: [PlayLevel] Compiling Actor_Dealer_Test before play...
+[2022.08.11-06.47.25:466][304]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.08.11-06.47.25:471][304]LogPlayLevel: PlayLevel: Blueprint regeneration took 274 ms (1 blueprints)
+[2022.08.11-06.47.25:482][304]PIE: New page: PIE session: Level_Blank (Aug 10, 2022, 4:47:25 PM)
+[2022.08.11-06.47.25:487][304]LogOnline: OSS: Created online subsystem instance for: NULL
+[2022.08.11-06.47.25:487][304]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.08.11-06.47.25:487][304]LogPlayLevel: Creating play world package: /Game/MainContent/Levels/UEDPIE_0_Level_Blank
+[2022.08.11-06.47.25:492][304]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004338s)
+[2022.08.11-06.47.25:492][304]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainContent/Levels/Level_Blank.Level_Blank to /Game/MainContent/Levels/UEDPIE_0_Level_Blank.Level_Blank (0.004456s)
+[2022.08.11-06.47.25:492][304]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.11-06.47.25:492][304]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-06.47.25:492][304]LogAIModule: Creating AISystem for world Level_Blank
+[2022.08.11-06.47.25:493][304]LogPlayLevel: PIE: World Init took: (0.001284s)
+[2022.08.11-06.47.25:551][304]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.08.11-06.47.25:553][304]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.11-06.47.25:553][304]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.11-06.47.25:553][304]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.11-06.47.25:554][304]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.11-06.47.25:554][304]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.11-06.47.25:554][304]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.11-06.47.25:557][304]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.11-06.47.25:597][304]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- USB Audio Device)
+[2022.08.11-06.47.25:598][304]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.11-06.47.25:598][304]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.11-06.47.25:598][304]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.11-06.47.25:599][304]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2022.08.11-06.47.25:599][304]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2022.08.11-06.47.25:601][304]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2022.08.11-06.47.25:601][304]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2022.08.11-06.47.25:601][304]LogInit: FAudioDevice initialized.
+[2022.08.11-06.47.25:601][304]LogAudio: Display: Audio Device (ID: 2) registered with world 'Level_Blank'.
+[2022.08.11-06.47.25:670][304]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-06.47.25:671][304]LogLoad: Game class is 'GM_Blackjack_C'
+[2022.08.11-06.47.25:672][304]LogWorld: Bringing World /Game/MainContent/Levels/UEDPIE_0_Level_Blank.Level_Blank up for play (max tick rate 0) at 2022.08.10-23.47.25
+[2022.08.11-06.47.25:672][304]LogWorld: Bringing up level for play took: 0.000916
+[2022.08.11-06.47.25:674][304]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2022.08.11-06.47.25:675][304]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.11-06.47.25:728][304]LogBlueprintUserMessages: [GM_Blackjack_C_0] false
+[2022.08.11-06.47.25:729][304]LogBlueprintUserMessages: [BP_BJ_PlayerController_C_0] PlayerController: Hello
+[2022.08.11-06.47.25:748][304]PIE: Server logged in
+[2022.08.11-06.47.25:750][304]PIE: Play in editor total start time 0.554 seconds.
+[2022.08.11-06.47.25:778][304]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.08.11-06.47.26:321][305]LogBlueprintUserMessages: [W_Menu_C_0] false
+[2022.08.11-06.47.40:723][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-06.47.40:723][947]LogWorld: BeginTearingDown for /Game/MainContent/Levels/UEDPIE_0_Level_Blank
+[2022.08.11-06.47.40:724][947]LogSlate: Window 'Blackjack Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.08.11-06.47.40:729][947]LogWorld: UWorld::CleanupWorld for Level_Blank, bSessionEnded=true, bCleanupResources=true
+[2022.08.11-06.47.40:730][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.11-06.47.40:747][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.11-06.47.40:758][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.11-06.47.40:831][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.11-06.47.40:832][947]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2022.08.11-06.47.40:866][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2022.08.11-06.47.40:899][948]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2022.08.11-06.47.48:306][781]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.11-06.47.48:306][781]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.08.11-06.49.20:022][ 37]BlueprintLog: New page: Compile W_MainHUD
+[2022.08.11-06.49.20:303][ 37]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.08.11-06.49.22:017][181]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.08.11-06.49.22:030][181]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.08.11-06.49.22:031][181]PIE: New page: PIE session: Level_Blank (Aug 10, 2022, 4:49:22 PM)
+[2022.08.11-06.49.22:031][181]LogPlayLevel: Creating play world package: /Game/MainContent/Levels/UEDPIE_0_Level_Blank
+[2022.08.11-06.49.22:035][181]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004369s)
+[2022.08.11-06.49.22:035][181]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainContent/Levels/Level_Blank.Level_Blank to /Game/MainContent/Levels/UEDPIE_0_Level_Blank.Level_Blank (0.004555s)
+[2022.08.11-06.49.22:035][181]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.08.11-06.49.22:036][181]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.08.11-06.49.22:036][181]LogAIModule: Creating AISystem for world Level_Blank
+[2022.08.11-06.49.22:036][181]LogPlayLevel: PIE: World Init took: (0.001033s)
+[2022.08.11-06.49.22:106][181]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.08.11-06.49.22:112][181]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.08.11-06.49.22:113][181]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.08.11-06.49.22:113][181]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.08.11-06.49.22:114][181]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.08.11-06.49.22:114][181]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.08.11-06.49.22:114][181]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.08.11-06.49.22:116][181]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.08.11-06.49.22:153][181]LogAudioMixer: Display: Using Audio Hardware Device Speakers (3- USB Audio Device)
+[2022.08.11-06.49.22:153][181]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.08.11-06.49.22:153][181]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.08.11-06.49.22:153][181]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.08.11-06.49.22:154][181]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2022.08.11-06.49.22:154][181]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2022.08.11-06.49.22:156][181]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2022.08.11-06.49.22:156][181]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2022.08.11-06.49.22:156][181]LogInit: FAudioDevice initialized.
+[2022.08.11-06.49.22:156][181]LogAudio: Display: Audio Device (ID: 3) registered with world 'Level_Blank'.
+[2022.08.11-06.49.22:224][181]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-06.49.22:224][181]LogLoad: Game class is 'GM_Blackjack_C'
+[2022.08.11-06.49.22:225][181]LogWorld: Bringing World /Game/MainContent/Levels/UEDPIE_0_Level_Blank.Level_Blank up for play (max tick rate 0) at 2022.08.10-23.49.22
+[2022.08.11-06.49.22:225][181]LogWorld: Bringing up level for play took: 0.000874
+[2022.08.11-06.49.22:228][181]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2022.08.11-06.49.22:228][181]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2022.08.11-06.49.22:234][181]LogBlueprintUserMessages: [GM_Blackjack_C_0] false
+[2022.08.11-06.49.22:235][181]LogBlueprintUserMessages: [BP_BJ_PlayerController_C_0] PlayerController: Hello
+[2022.08.11-06.49.22:238][181]PIE: Server logged in
+[2022.08.11-06.49.22:240][181]PIE: Play in editor total start time 0.209 seconds.
+[2022.08.11-06.49.22:268][181]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.08.11-06.49.22:317][182]LogBlueprintUserMessages: [W_Menu_C_0] false
+[2022.08.11-06.49.40:894][368]LogBlueprintUserMessages: [GM_Blackjack_C_0] Lets Play!
+[2022.08.11-06.49.40:894][368]LogBlueprintUserMessages: [Actor_Dealer_Test_C_1] Dealer: Let's Play
+[2022.08.11-06.49.46:288][  0]LogBlueprintUserMessages: [GM_Blackjack_C_0] 110
+[2022.08.11-06.49.50:126][452]LogBlueprintUserMessages: [GM_Blackjack_C_0] Lets Play!
+[2022.08.11-06.49.50:126][452]LogBlueprintUserMessages: [Actor_Dealer_Test_C_1] Dealer: Let's Play
+[2022.08.11-06.49.58:464][439]LogBlueprintUserMessages: [GM_Blackjack_C_0] Lets Play!
+[2022.08.11-06.49.58:464][439]LogBlueprintUserMessages: [Actor_Dealer_Test_C_1] Dealer: Let's Play
+[2022.08.11-06.50.07:763][530]LogBlueprintUserMessages: [GM_Blackjack_C_0] Lets Play!
+[2022.08.11-06.50.07:763][530]LogBlueprintUserMessages: [Actor_Dealer_Test_C_1] Dealer: Let's Play
+[2022.08.11-06.50.27:063][813]LogBlueprintUserMessages: [W_Menu_C_1] false
+[2022.08.11-06.50.28:223][945]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.08.11-06.50.28:223][945]LogWorld: BeginTearingDown for /Game/MainContent/Levels/UEDPIE_0_Level_Blank
+[2022.08.11-06.50.28:226][945]LogSlate: Window 'Blackjack Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.08.11-06.50.28:231][945]LogWorld: UWorld::CleanupWorld for Level_Blank, bSessionEnded=true, bCleanupResources=true
+[2022.08.11-06.50.28:232][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.11-06.50.28:248][945]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.08.11-06.50.28:258][945]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.08.11-06.50.28:325][945]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.08.11-06.50.28:326][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.11-06.50.28:327][945]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2022.08.11-06.50.28:337][945]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.08.11-06.50.28:364][946]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.08.11-06.50.54:455][194]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2022.08.11-06.50.54:491][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainContent/Levels/Level_Blank_Auto1
+[2022.08.11-06.50.54:493][194]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Level_Blank_Auto124A24C49411A63233DC2BDBD6600D78F.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Autosaves/Game/MainContent/Levels/Level_Blank_Auto1.umap'
+[2022.08.11-06.50.54:500][194]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainContent/Levels/Level_Blank' took 0.114
+[2022.08.11-06.50.54:500][194]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.114
+[2022.08.11-06.50.54:537][194]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainContent/Blueprints/Actor_Dealer_Test] ([2] browsable assets)...
+[2022.08.11-06.50.54:537][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainContent/Blueprints/Actor_Dealer_Test]
+[2022.08.11-06.50.54:647][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainContent/Blueprints/Actor_Dealer_Test_Auto1
+[2022.08.11-06.50.54:647][194]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Actor_Dealer_Test_Auto1710347DB4C9110994F7EE495D9B9F249.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Autosaves/Game/MainContent/Blueprints/Actor_Dealer_Test_Auto1.uasset'
+[2022.08.11-06.50.54:650][194]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/MainContent/Widgets/W_MainHUD] ([2] browsable assets)...
+[2022.08.11-06.50.54:659][194]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/MainContent/Widgets/W_MainHUD.W_MainHUD]
+[2022.08.11-06.50.54:659][194]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainContent/Widgets/W_MainHUD]
+[2022.08.11-06.50.55:182][194]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainContent/Widgets/W_MainHUD_Auto1
+[2022.08.11-06.50.55:184][194]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/W_MainHUD_Auto11561DF1F4CB6C2D693FC4CA498C28EA4.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Autosaves/Game/MainContent/Widgets/W_MainHUD_Auto1.uasset'
+[2022.08.11-06.50.55:202][194]LogFileHelpers: Auto-saving content packages took 0.650
+[2022.08.11-06.50.58:247][456]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2022.08.11-06.50.58:375][456]LogUObjectHash: Compacting FUObjectHashTables data took   0.82ms
+[2022.08.11-06.50.58:409][456]LogSavePackage: Moving output files for package: /Game/MainContent/Levels/Level_Blank
+[2022.08.11-06.50.58:410][456]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Level_Blank3AD0F41A4573C1AD61FEACB743609916.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Levels/Level_Blank.umap'
+[2022.08.11-06.50.58:442][456]LogFileHelpers: Saving map 'Level_Blank' took 0.133
+[2022.08.11-06.50.58:551][456]LogSavePackage: Moving output files for package: /Game/MainContent/Blueprints/Actor_Dealer_Test
+[2022.08.11-06.50.58:553][456]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/Actor_Dealer_Test8B2B43F3498A953F4C024AA1990E3325.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Blueprints/Actor_Dealer_Test.uasset'
+[2022.08.11-06.50.59:051][456]LogSavePackage: Moving output files for package: /Game/MainContent/Widgets/W_MainHUD
+[2022.08.11-06.50.59:053][456]LogSavePackage: Moving '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Saved/W_MainHUDB0A21AF743CE61939DB50C916F1BDE93.tmp' to '../../../../../../Users/Anooj Vadodkar/Desktop/Project-Blackjack/Blackjack/Content/MainContent/Widgets/W_MainHUD.uasset'
+[2022.08.11-06.50.59:082][456]AssetCheck: New page: Asset Save: multiple assets
+[2022.08.11-06.50.59:082][456]LogContentValidation: Display: Validating Blueprint /Game/MainContent/Blueprints/Actor_Dealer_Test.Actor_Dealer_Test
+[2022.08.11-06.50.59:083][456]LogContentValidation: Display: Validating WidgetBlueprint /Game/MainContent/Widgets/W_MainHUD.W_MainHUD
+[2022.08.11-06.50.59:087][456]LogContentValidation: Display: Validating World /Game/MainContent/Levels/Level_Blank.Level_Blank
